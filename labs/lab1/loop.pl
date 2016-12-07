@@ -1,0 +1,5 @@
+sub name {
+	name();
+}
+
+name();
